@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApPizza", "WebApPizza\WebApPizza.csproj", "{D729211F-3CA4-42BF-84C3-F4960AAD678B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaLib", "PizzaLib\PizzaLib.csproj", "{3C977EAA-4429-4403-8783-5502788913DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowPizza", "SpecFlowPizza\SpecFlowPizza.csproj", "{9D89A09D-9173-4D3F-AEB4-B3FABE05C6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D729211F-3CA4-42BF-84C3-F4960AAD678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D729211F-3CA4-42BF-84C3-F4960AAD678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D729211F-3CA4-42BF-84C3-F4960AAD678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D729211F-3CA4-42BF-84C3-F4960AAD678B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C977EAA-4429-4403-8783-5502788913DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C977EAA-4429-4403-8783-5502788913DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C977EAA-4429-4403-8783-5502788913DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C977EAA-4429-4403-8783-5502788913DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D89A09D-9173-4D3F-AEB4-B3FABE05C6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D89A09D-9173-4D3F-AEB4-B3FABE05C6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D89A09D-9173-4D3F-AEB4-B3FABE05C6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D89A09D-9173-4D3F-AEB4-B3FABE05C6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F77F2F-2914-4ABA-9021-6419E923C10E}
+	EndGlobalSection
+EndGlobal
